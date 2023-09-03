@@ -136,7 +136,8 @@
             "Fleisch",
             "Fisch",
             "Drogerie",
-            "Getränke"});
+            "Getränke",
+            "Tierische Produkte"});
             this.comboBoxProductCategory.Location = new System.Drawing.Point(78, 69);
             this.comboBoxProductCategory.Name = "comboBoxProductCategory";
             this.comboBoxProductCategory.Size = new System.Drawing.Size(156, 21);
